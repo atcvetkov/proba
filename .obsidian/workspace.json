@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "d8b6b66fdc617503",
+    "type": "split",
+    "children": [
+      {
+        "id": "6774d6969e8fd83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d64f6d42c4f4d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sortspec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "782ba991524fdfea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff78923af5e0d5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd63b8421a3071e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c48cff9d139fedd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cca00c30aa698ccf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a49391ef66ea127e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bf2014ac9e4126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33530a349438922",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sortspec.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c097a94d5dd34b36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sortspec.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7946adee92bd8e3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3a86b3f1ced06d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sortspec.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7d64f6d42c4f4d0a",
+  "lastOpenFiles": [
+    "церкви/Церковь Филимона.md",
+    "церкви/Церковь Богородицы.md",
+    "sortspec.md",
+    "церкви/Таблица церквей.md",
+    "церкви/Церковь Пантелеймона.md",
+    "церкви/Церковь Воскресения.md",
+    "Синтаксис/YAML проба.md",
+    "Синтаксис/Написание транскрипции.md",
+    "Папка с заметками/Пробы блоков.md",
+    "Папка с заметками/Заметка 2.md"
+  ]
+}
